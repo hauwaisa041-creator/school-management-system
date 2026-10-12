@@ -1,0 +1,32 @@
+[
+    {
+        "name": "chemistry",
+        "code": "CHM101",
+        "teacher": "Mr ayinla"
+    },
+    {
+        "name": "biology",
+        "code": "BIO202",
+        "teacher": "Mr apaduku"
+    },
+    {
+        "name": "hausa",
+        "code": "HA301",
+        "teacher": "Mrs basira"
+    },
+    {
+        "name": "mathematic",
+        "code": "MTH303",
+        "teacher": "Mrs folashade"
+    },
+    {
+        "name": "economics",
+        "code": "EC211",
+        "teacher": "Mr abdulrashid"
+    },
+    {
+        "name": "Mr nuhu",
+        "code": "IS304",
+        "teacher": "islamic studies"
+    }
+]

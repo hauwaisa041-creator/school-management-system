@@ -1,0 +1,27 @@
+[
+    {
+        "id": "TCH001",
+        "name": "Mr unknown",
+        "subject": "english",
+        "phone": "09132456789"
+    },
+    {
+        "id": "TCH002",
+        "name": "Mr abena",
+        "subject": "mathematics",
+        "phone": "08045678342",
+        "teacher": "TCH002"
+    },
+    {
+        "id": "TCH003",
+        "name": "Mr kazayo",
+        "subject": "physics",
+        "phone": "07011223344"
+    },
+    {
+        "id": "TCH004",
+        "name": "Mr umar",
+        "subject": "biology",
+        "phone": "09098765432"
+    }
+]

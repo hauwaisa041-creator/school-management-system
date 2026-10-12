@@ -1,0 +1,27 @@
+[
+    {
+        "name": "JSS1",
+        "arm": "A",
+        "assigned_teacher": "mr ayinla"
+    },
+    {
+        "name": "JSS2",
+        "arm": "B",
+        "assigned_teacher": "mr abena"
+    },
+    {
+        "name": "JSS3",
+        "arm": "C",
+        "assigned_teacher": "mr musa"
+    },
+    {
+        "name": "SS1",
+        "arm": "B",
+        "assigned_teacher": "Mr umar"
+    },
+    {
+        "name": "SS2",
+        "arm": "A",
+        "assigned_teacher": "Mrs musa"
+    }
+]

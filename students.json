@@ -1,0 +1,38 @@
+[
+    {
+        "id": "ST001",
+        "name": "isa hauwa abdullahi",
+        "age": "20",
+        "gender": "femala",
+        "class": "SS3"
+    },
+    {
+        "id": "ST002",
+        "name": "mansur manga",
+        "age": "21",
+        "gender": "male",
+        "class": "SS2"
+    },
+    {
+        "id": "ST003",
+        "name": "ahmad hafsah turaki",
+        "age": "22",
+        "gender": "female",
+        "class": "SS1"
+    },
+    {
+        "id": "ST004",
+        "name": "abdullahi abdulsalim",
+        "age": "20",
+        "gender": "male",
+        "class": "JSS3",
+        "score": "ws"
+    },
+    {
+        "id": "ST005",
+        "name": "aminu rahina ubale",
+        "age": "18",
+        "gender": "female",
+        "class": "JSS3"
+    }
+]
